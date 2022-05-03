@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Diplom1/static/css/main.3e47dfba.css",
+    "main.js": "/Diplom1/static/js/main.2f70cbd8.js",
+    "static/js/787.30caf64b.chunk.js": "/Diplom1/static/js/787.30caf64b.chunk.js",
+    "index.html": "/Diplom1/index.html",
+    "main.3e47dfba.css.map": "/Diplom1/static/css/main.3e47dfba.css.map",
+    "main.2f70cbd8.js.map": "/Diplom1/static/js/main.2f70cbd8.js.map",
+    "787.30caf64b.chunk.js.map": "/Diplom1/static/js/787.30caf64b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e47dfba.css",
+    "static/js/main.2f70cbd8.js"
+  ]
+}
