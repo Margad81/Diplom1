@@ -1,0 +1,144 @@
+[
+    {
+        "id": 1,
+        "title": "Индүү",
+        "price": 123000,
+        "salePrice": 85000,
+        "category": "Цахилгаан бараа",
+        "brand": "Samsung",
+        "color": "Цэнхэр",
+        "img": "items/1.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Миксер",
+        "price": 152000,
+        "category": "Цахилгаан бараа",
+        "brand": "Posch",
+        "color": "Цагаан",
+        "img": "items/2.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Цүнх",
+        "price": 3200000,
+        "category": "Цүнх",
+        "brand": "Prada",
+        "color": "ягаан",
+        "img": "items/3.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Iphone X",
+        "price": 1490000,
+        "salePrice": 850000,
+        "category": "Гар утас",
+        "brand": "Apple",
+        "color": "Цагаан",
+        "img": "items/4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Буйдан",
+        "price": 1900000,
+        "category": "Тавилга",
+        "brand": "IKEA",
+        "color": "Саарал",
+        "img": "items/5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Сандал",
+        "price": 92000,
+        "salePrice": 82000,
+        "category": "Тавилга",
+        "brand": "IKEA",
+        "color": "Цэнхэр",
+        "img": "items/6.jpg"
+    },
+    {
+        "id": 7,
+        "title": "Смарт цаг",
+        "price": 320000,
+        "category": "Бугуйн цаг",
+        "brand": "Samsung",
+        "color": "Мөнгөлөг",
+        "img": "items/7.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Суултуур",
+        "price": 180000,
+        "category": "Ахуйн бараа",
+        "brand": "IKEA",
+        "color": "Цагаан",
+        "img": "items/item-sm.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Дэлгэц",
+        "price": 980000,
+        "category": "Технологи",
+        "brand": "Apple",
+        "color": "Цагаан",
+        "img": "items/comp.png"
+    },
+    {
+        "id": 10,
+        "title": "i7-12000 Computer",
+        "price": 3200000,
+        "salePrice": 160000,
+        "category": "Технологи",
+        "brand": "ASUS",
+        "color": "Саарал",
+        "img": "items/note.png"
+    },
+    {
+        "id": 11,
+        "title": "Iphone 13 pro",
+        "price": 5200000,
+        "salePrice": 4600000,
+        "category": "Технологи",
+        "brand": "Apple",
+        "color": "ногоон",
+        "img": "items/download.jpg"
+    },
+    {
+        "id": 12,
+        "title": "Ботинк",
+        "price": 260000,
+        "category": "Гутал",
+        "brand": "Zara",
+        "color": "хар",
+        "img": "items/Botink-har.jpg"
+    },
+    {
+        "id": 13,
+        "title": "Цув",
+        "price": 320000,
+        "salePrice": 280000,
+        "category": "Гадуур хувцас",
+        "brand": "Gucci",
+        "color": "Цагаан",
+        "img": "items/Tsuw-wsagaan.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Bluetooth чихэвч",
+        "price": 62000,
+        "category": "чихэвч",
+        "brand": "Edifier",
+        "color": "Цагаан",
+        "img": "items/Edifier-bluetooth chihewch.png"
+    },
+    {
+        "id": 15,
+        "title": "Iphone 13 pro",
+        "price": 5200000 ,
+        "salePrice": 4600000,
+        "category": "Гар утас",
+        "brand": "Apple",
+        "color": "Цэнхэр",
+        "img": "items/13.jpg"
+    }
+]
